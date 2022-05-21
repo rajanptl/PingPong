@@ -5,13 +5,7 @@ package ppPackage;
 import javax.swing.JToggleButton;
 
 /**
- * The ppSimParams class holds the multiple parameters that are used in this simulation. <br> 
- * Credits to Professor Ferrie for providing the list of parameters used in this class (ppSimParams) in the ECSE-202 F2021 Assignment 3 
- * handout distributed via MyCourses.  
- * 
- * @author Frank Ferrie
- * @version JavaSE 1.8
- * @since  2021-11-13 
+ * The ppSimParams class holds the multiple parameters that are used in this simulation. 
  * 
 */
 
