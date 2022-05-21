@@ -9,11 +9,8 @@ import static ppPackage.ppSimParams.*;
 
 /**
 * The ppPaddleAgent class is responsible for exporting the attachBall method , for creating the left paddle and for slowing down the response time of the Agent
-* (left paddle).<br>Credits to Professor Ferrie for providing some of the lines used in this class in the ECSE-202 F2021 Assignment 4 handout distributed via MyCourses as well as to our TA Katrina Poulin for helping out in writing this class during the tutorials.
-* 
-* @author Frank Ferrie
+* (left paddle).
 * @version JavaSE 1.8
-* @since  2021-11-13
 */
 
 public class ppPaddleAgent extends ppPaddle {
