@@ -11,13 +11,7 @@
 	/**
 	* The ppBall class is where the simulation loop of the program resides. The simulation loop checks for collisions on the ground, and the 
 	* paddles to update the motion of the ball. Additionally, it is also responsible for generating the output of the trajectory and for tracing the trajectory
-	* of the ball when the trace toggle button is selected. Finally, it houses multiple export methods. <br>Credits to Professor Ferrie for providing some of the lines used in this class in the ECSE-202 F2021 
-	* Assignment 1,2,3 and 4 handouts distributed via MyCourses as well as to our TA Katrina Poulin for helping out in writing this part of the assignment
-	* during the tutorials.
-	* 
-	* @author Frank Ferrie
-	* @version JavaSE 1.8
-	* @since  2021-11-13
+	* of the ball when the trace toggle button is selected. Finally, it houses multiple export methods.
 	*/
 	
 
