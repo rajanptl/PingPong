@@ -9,13 +9,7 @@ import static ppPackage.ppSimParams.*;
 import java.awt.Color;
 /**
  * "The ppPaddle class is responsible for creating a paddle instance and exporting several methods for interacting with the paddle instance."(Ferrie, 
- * ECSE-202 F2021 Assignment 3 handout). <br> Credits to Professor Ferrie for providing some of the lines used in this class in the ECSE-202 F2021 
- * Assignment 3 handout distributed via MyCourses as well to the TA Katrina Poulin for helping in writing and understanding this class during
- * the tutorial sessions.
- * 
- * @author Frank Ferrie
- * @version JavaSE 1.8
- * @since  2021-11-13 
+ * ECSE-202 F2021 Assignment 3 handout). 
  * 
 */
 public class ppPaddle extends Thread{
