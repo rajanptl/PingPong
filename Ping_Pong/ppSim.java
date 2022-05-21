@@ -17,11 +17,7 @@ import acm.util.RandomGenerator;
 * The ppSim class is responsible for generating the interface of the pong game, the ground plane, the two paddles, the ball and for randomly 
 * generating the values of initial Y position, velocity, angle and loss of the ball through the use off the RandomGenerator class.
 * Additionally, it is also responsible for starting the ball, the two paddles and most importantly for allowing the mouse to control the right paddle as well
-* as to allow the buttons to control the program. <br>Credits to Professor Ferrie for providing some of the lines used in this class in the ECSE-202 F2021 Assignment 1,2,3 and 4 handouts distributed via MyCourses as well as to our TA Katrina Poulin for helping out in writing this class during the tutorials.
-* 
-* @author Frank Ferrie
-* @version JavaSE 1.8
-* @since  2021-11-13 
+* as to allow the buttons to control the program. 
 */
 
 
