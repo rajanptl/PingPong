@@ -9,12 +9,7 @@ import acm.graphics.GRect;
 import acm.program.GraphicsProgram;
 /**
  * The ppTable class is responsible for creating the ground and is also used to export various utility methods such as W2S and S2W and NewScreen.
- * <br>Credits to Professor Ferrie for providing some of the lines used in this class in the ECSE-202 F2021 Assignment 2,3 and 4 handouts distributed 
- * via MyCourses as well as to the TA Katrina Poulin for helping in writing this class (ppTable) during the tutorials.
- * @author Frank Ferrie
- * @version JavaSE 1.8
- * @since  2021-11-13 
- * 
+
 */
 public class ppTable{
 	
