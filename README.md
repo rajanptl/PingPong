@@ -18,6 +18,7 @@ The six Java classes that were written to create this program are the following:
 - ppPaddleAgent: This class extends ppPaddle by providing information about the ball's position in order to match the paddle's Y position with the ball's in the run   method. It basically controls the computer's paddle.
 - ppBall: This class contains the simulation loop and extends the Thread class. This allows the methods to be executed simultaneously with other methods. The ball's energy, position and velocity after each collision is set in this class.
 - ppSim: This class has a main method and executes the ping-pong game.
+
 ACM Graphics Program is used in this program, therefore, it should be downloaded and added in the "Add External Jar" that can be accessed through "Build Path".
 
 # Buttons
